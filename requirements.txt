@@ -1,0 +1,8 @@
+flask
+fitz  # PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+nltk
+tqdm
